@@ -1,1 +1,2 @@
-I love ALX
+I love Myself
+I'm stressed
